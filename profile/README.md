@@ -62,7 +62,7 @@ An all-in-one, ad-free app for video, music, photos, PDFs and files — hardware
 
 | Windows | macOS | Android | iPhone · iPad |
 |:---:|:---:|:---:|:---:|
-| [Download](https://github.com/UWorld-Group/uworldplayer/releases/latest) · [Microsoft Store](https://apps.microsoft.com/detail/XP894K8V5D8QWK) | [DMG](https://github.com/UWorld-Group/uworldplayer/releases/latest) · [Mac App Store](https://apps.apple.com/app/id6814982809) | [Google Play](https://play.google.com/store/apps/details?id=co.uworld.uworld_player) | [App Store](https://apps.apple.com/app/id6814982809) |
+| [Download](https://github.com/UWorld-Group/uworldplayer/releases/latest) | [DMG](https://github.com/UWorld-Group/uworldplayer/releases/latest) · [Mac App Store](https://apps.apple.com/app/id6814982809) | [Google Play](https://play.google.com/store/apps/details?id=co.uworld.uworld_player) | [App Store](https://apps.apple.com/app/id6814982809) |
 
 [About the app](https://github.com/UWorld-Group/uworldplayer#readme) · [Release notes](https://github.com/UWorld-Group/uworldplayer/releases)
 <!-- /app:uworldplayer -->
