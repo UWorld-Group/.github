@@ -50,6 +50,21 @@ iCloud에서 내려받은 사진의 날짜가 모두 오늘로 바뀌었나요? 
 [About the app](https://github.com/UWorld-Group/uworldimagedate#readme) · [Release notes](https://github.com/UWorld-Group/uworldimagedate/releases)
 <!-- /app:uworldimagedate -->
 
+<!-- app:uworldplayer -->
+### UWorld Player · 유월드 플레이어
+[![Latest release](https://img.shields.io/github/v/release/UWorld-Group/uworldplayer?label=Windows%20%7C%20macOS&logo=github&color=0a7bbd)](https://github.com/UWorld-Group/uworldplayer/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/UWorld-Group/uworldplayer/total?label=downloads&color=2ea043)](https://github.com/UWorld-Group/uworldplayer/releases)
+
+An all-in-one, ad-free app for video, music, photos, PDFs and files — hardware-accelerated playback, an image editor, a PDF notebook, screen capture, text-to-speech, archives and handy file tools.
+영상·음악·사진·PDF·파일을 광고 없는 앱 하나로 — 하드웨어 가속 재생, 이미지 편집, PDF 노트, 화면 캡처, 텍스트 읽어주기, 압축, 파일 도구까지.
+
+| Windows | macOS | Android | iPhone · iPad |
+|:---:|:---:|:---:|:---:|
+| [Download](https://github.com/UWorld-Group/uworldplayer/releases/latest) · [Microsoft Store](https://apps.microsoft.com/detail/XP894K8V5D8QWK) | [DMG](https://github.com/UWorld-Group/uworldplayer/releases/latest) · [Mac App Store](https://apps.apple.com/app/id6814982809) | [Google Play](https://play.google.com/store/apps/details?id=co.uworld.uworld_player) | [App Store](https://apps.apple.com/app/id6814982809) |
+
+[About the app](https://github.com/UWorld-Group/uworldplayer#readme) · [Release notes](https://github.com/UWorld-Group/uworldplayer/releases)
+<!-- /app:uworldplayer -->
+
 <!-- /cat:productivity -->
 
 ---
