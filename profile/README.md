@@ -47,7 +47,7 @@ iCloud에서 내려받은 사진의 날짜가 모두 오늘로 바뀌었나요? 
 
 | Windows | macOS |
 |:---:|:---:|
-| [Download](https://github.com/UWorld-Group/uworldimagedate/releases/latest) | [DMG (Apple silicon · Intel)](https://github.com/UWorld-Group/uworldimagedate/releases/latest) |
+| [Download](https://github.com/UWorld-Group/uworldimagedate/releases/latest) | [DMG (Apple silicon · Intel)](https://github.com/UWorld-Group/uworldimagedate/releases/latest/download/UWorldImageDate-macos-universal.dmg) |
 
 [About the app](https://github.com/UWorld-Group/uworldimagedate#readme) · [Release notes](https://github.com/UWorld-Group/uworldimagedate/releases)
 <!-- /app:uworldimagedate -->
