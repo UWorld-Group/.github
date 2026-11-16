@@ -32,6 +32,26 @@ Past exam questions for Korean national technical certifications and civil servi
 
 <!-- /cat:education -->
 
+<!-- cat:productivity -->
+## 🛠️ Productivity & Tools · 생산성·도구
+
+<!-- app:uworldimagedate -->
+### UWorld Image Date · 이미지 일자변경
+[![Latest release](https://img.shields.io/github/v/release/UWorld-Group/uworldimagedate?label=Windows%20%7C%20macOS&logo=github&color=0a7bbd)](https://github.com/UWorld-Group/uworldimagedate/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/UWorld-Group/uworldimagedate/total?label=downloads&color=2ea043)](https://github.com/UWorld-Group/uworldimagedate/releases)
+
+Photos downloaded from iCloud all show today's date? It reads the original capture date inside each photo and restores the file name and created/modified dates.
+iCloud에서 내려받은 사진의 날짜가 모두 오늘로 바뀌었나요? 사진 속 원래 촬영일을 읽어 파일 이름과 생성일·수정일을 되돌려 드립니다.
+
+| Windows | macOS |
+|:---:|:---:|
+| [Download](https://github.com/UWorld-Group/uworldimagedate/releases/latest) | [DMG (Apple silicon · Intel)](https://github.com/UWorld-Group/uworldimagedate/releases/latest) |
+
+[About the app](https://github.com/UWorld-Group/uworldimagedate#readme) · [Release notes](https://github.com/UWorld-Group/uworldimagedate/releases)
+<!-- /app:uworldimagedate -->
+
+<!-- /cat:productivity -->
+
 ---
 
 ## Downloads · 다운로드 안내
