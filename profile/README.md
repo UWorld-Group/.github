@@ -67,6 +67,23 @@ An all-in-one, ad-free app for video, music, photos, PDFs and files — hardware
 [About the app](https://github.com/UWorld-Group/uworldplayer#readme) · [Release notes](https://github.com/UWorld-Group/uworldplayer/releases)
 <!-- /app:uworldplayer -->
 
+<!-- app:uworldcode -->
+### UWorld Code · 유월드 코드
+[![Latest release](https://img.shields.io/github/v/release/UWorld-Group/uworldcode?label=Windows%20%7C%20macOS&logo=github&color=7c5cff)](https://github.com/UWorld-Group/uworldcode/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/UWorld-Group/uworldcode/total?label=downloads&color=2ea043)](https://github.com/UWorld-Group/uworldcode/releases)
+
+<img src="https://raw.githubusercontent.com/UWorld-Group/uworldcode/main/screenshots/01-overview.png" alt="UWorld Code — Full Auto development" width="360">
+
+Say it, and it gets built. A self-hosted AI coding agent that plans, designs, codes and checks full-stack projects on your own PC.
+말하면, 만들어집니다. 내 PC에서 기획·설계·풀스택 개발·검증까지 해 주는 자체 호스팅 AI 코딩 에이전트.
+
+| Windows | macOS |
+|:---:|:---:|
+| [Download](https://github.com/UWorld-Group/uworldcode/releases/latest) | [DMG (Apple silicon)](https://github.com/UWorld-Group/uworldcode/releases/latest/download/UWorldCode-macos-arm64.dmg) |
+
+[About the app](https://github.com/UWorld-Group/uworldcode#readme) · [Release notes](https://github.com/UWorld-Group/uworldcode/releases)
+<!-- /app:uworldcode -->
+
 <!-- /cat:productivity -->
 
 ---
