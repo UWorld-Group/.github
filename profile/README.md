@@ -137,6 +137,28 @@ Quotes and transaction statements in one minute, free — VAT calculated automat
 
 <!-- /cat:productivity -->
 
+<!-- cat:lifestyle -->
+## 🌱 Lifestyle · 생활
+
+<!-- app:uworldnaming -->
+### UWorld Naming · 유월드 작명
+[![Latest release](https://img.shields.io/github/v/release/UWorld-Group/uworldnaming?label=Windows%20%7C%20macOS&logo=github&color=1f51db)](https://github.com/UWorld-Group/uworldnaming/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/UWorld-Group/uworldnaming/total?label=downloads&color=2ea043)](https://github.com/UWorld-Group/uworldnaming/releases)
+
+<img src="https://raw.githubusercontent.com/UWorld-Group/uworldnaming/main/screenshots/01-dashboard.png" alt="UWorld Naming — dashboard" width="360">
+
+Find a meaningful Korean name for your baby. It reads the baby's Saju and scores Hangul and Hanja names on sound, numerology and meaning with 200 naming methods.
+사주·발음·수리·뜻을 모두 따져 아기 이름을 지어 드립니다. 200가지 작명 기법으로 한글·한자 이름을 채점하고 이유까지 풀어 드립니다.
+
+| Windows | macOS | Android | Web |
+|:---:|:---:|:---:|:---:|
+| [Download](https://github.com/UWorld-Group/uworldnaming/releases/latest) | [DMG (Apple silicon · Intel)](https://github.com/UWorld-Group/uworldnaming/releases/latest/download/UWorldNaming-macos-universal.dmg) | [Google Play](https://play.google.com/store/apps/details?id=kr.co.uworld.naming) | [naming.uworld.co.kr](https://naming.uworld.co.kr) |
+
+[About the app](https://github.com/UWorld-Group/uworldnaming#readme) · [Release notes](https://github.com/UWorld-Group/uworldnaming/releases)
+<!-- /app:uworldnaming -->
+
+<!-- /cat:lifestyle -->
+
 ---
 
 ## Downloads · 다운로드 안내
