@@ -101,6 +101,23 @@ ClamAV 엔진 기반의 빠르고 프라이버시를 지키는 백신 — 실시
 [About the app](https://github.com/UWorld-Group/uworldantivirus#readme) · [Release notes](https://github.com/UWorld-Group/uworldantivirus/releases)
 <!-- /app:uworldantivirus -->
 
+<!-- app:uworldbenchmark -->
+### UWorld Benchmark · 유월드 벤치마크
+[![Latest release](https://img.shields.io/github/v/release/UWorld-Group/uworldbenchmark?label=Windows%20%7C%20macOS&logo=github&color=0a7bbd)](https://github.com/UWorld-Group/uworldbenchmark/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/UWorld-Group/uworldbenchmark/total?label=downloads&color=2ea043)](https://github.com/UWorld-Group/uworldbenchmark/releases)
+
+<img src="https://raw.githubusercontent.com/UWorld-Group/uworldbenchmark/main/screenshots/01-home.png" alt="UWorld Benchmark — home dashboard" width="360">
+
+Engineer-grade hardware benchmark — 1,000+ real workloads across CPU, GPU, AI, memory, storage and network, with confidence grades and SPC analysis. One engine on five OSes, 100% on-device, free.
+엔지니어급 하드웨어 벤치마크 — CPU·GPU·AI·메모리·스토리지·네트워크 1,000개가 넘는 실측 워크로드와 신뢰도 등급·SPC 분석. 5개 OS 하나의 엔진, 100% 기기 내 측정, 무료.
+
+| Windows | macOS | Android | iPhone · iPad |
+|:---:|:---:|:---:|:---:|
+| [Download](https://github.com/UWorld-Group/uworldbenchmark/releases/latest) | [DMG](https://github.com/UWorld-Group/uworldbenchmark/releases/latest) · [Mac App Store](https://apps.apple.com/app/id6814112939) | [Google Play](https://play.google.com/store/apps/details?id=kr.co.uworld.uworld_benchmark) | [App Store](https://apps.apple.com/app/id6814112939) |
+
+[About the app](https://github.com/UWorld-Group/uworldbenchmark#readme) · [Release notes](https://github.com/UWorld-Group/uworldbenchmark/releases)
+<!-- /app:uworldbenchmark -->
+
 <!-- /cat:productivity -->
 
 ---
