@@ -84,6 +84,23 @@ Say it, and it gets built. A self-hosted AI coding agent that plans, designs, co
 [About the app](https://github.com/UWorld-Group/uworldcode#readme) · [Release notes](https://github.com/UWorld-Group/uworldcode/releases)
 <!-- /app:uworldcode -->
 
+<!-- app:uworldantivirus -->
+### UWorld Antivirus · 유월드 안티바이러스
+[![Latest release](https://img.shields.io/github/v/release/UWorld-Group/uworldantivirus?label=Windows%20%7C%20macOS&logo=github&color=0a7bbd)](https://github.com/UWorld-Group/uworldantivirus/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/UWorld-Group/uworldantivirus/total?label=downloads&color=2ea043)](https://github.com/UWorld-Group/uworldantivirus/releases)
+
+<img src="https://raw.githubusercontent.com/UWorld-Group/uworldantivirus/main/screenshots/01-dashboard.png" alt="UWorld Antivirus — real-time protection dashboard" width="360">
+
+Fast, privacy-first antivirus on the ClamAV engine — real-time protection, hacking and ransomware defense, 99 languages. Free for home and business, no account, no ads.
+ClamAV 엔진 기반의 빠르고 프라이버시를 지키는 백신 — 실시간 보호, 해킹·랜섬웨어 방어, 99개 언어. 개인·기업 모두 무료, 계정·광고 없음.
+
+| Windows | macOS | Android | iPhone · iPad |
+|:---:|:---:|:---:|:---:|
+| [Download](https://github.com/UWorld-Group/uworldantivirus/releases/latest) | [DMG (Apple silicon)](https://github.com/UWorld-Group/uworldantivirus/releases/latest) | [Google Play](https://play.google.com/store/apps/details?id=co.uworld.uworld_vaccine) | [App Store](https://apps.apple.com/app/id6816079514) |
+
+[About the app](https://github.com/UWorld-Group/uworldantivirus#readme) · [Release notes](https://github.com/UWorld-Group/uworldantivirus/releases)
+<!-- /app:uworldantivirus -->
+
 <!-- /cat:productivity -->
 
 ---
