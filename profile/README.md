@@ -118,6 +118,23 @@ Engineer-grade hardware benchmark — 1,000+ real workloads across CPU, GPU, AI,
 [About the app](https://github.com/UWorld-Group/uworldbenchmark#readme) · [Release notes](https://github.com/UWorld-Group/uworldbenchmark/releases)
 <!-- /app:uworldbenchmark -->
 
+<!-- app:uworldquotation -->
+### UWorld Quotation · 유월드 견적서
+[![Latest release](https://img.shields.io/github/v/release/UWorld-Group/uworldquotation?label=Windows%20%7C%20macOS&logo=github&color=0a7bbd)](https://github.com/UWorld-Group/uworldquotation/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/UWorld-Group/uworldquotation/total?label=downloads&color=2ea043)](https://github.com/UWorld-Group/uworldquotation/releases)
+
+<img src="https://raw.githubusercontent.com/UWorld-Group/uworldquotation/main/screenshots/01-quote.png" alt="UWorld Quotation — create a quote" width="360">
+
+Quotes and transaction statements in one minute, free — VAT calculated automatically, PDF and print, clients and statistics, plus a ledger, meal plan and memos. One account on the web, desktop and mobile.
+견적서·거래명세서를 1분 만에, 무료로 — 부가세 자동 계산, PDF·인쇄, 고객·통계 관리에 가계부·식단표·메모장까지. 웹·데스크톱·모바일 어디서나 같은 계정으로.
+
+| Web | Windows | macOS | Android | iPhone · iPad |
+|:---:|:---:|:---:|:---:|:---:|
+| [Open](https://quot.uworld.co.kr) | [Download](https://github.com/UWorld-Group/uworldquotation/releases/latest) | [DMG](https://github.com/UWorld-Group/uworldquotation/releases/latest) · [Mac App Store](https://apps.apple.com/app/id6814092018) | [Google Play](https://play.google.com/store/apps/details?id=kr.co.uworld.quotation) | [App Store](https://apps.apple.com/app/id6814092018) |
+
+[About the app](https://github.com/UWorld-Group/uworldquotation#readme) · [Release notes](https://github.com/UWorld-Group/uworldquotation/releases)
+<!-- /app:uworldquotation -->
+
 <!-- /cat:productivity -->
 
 ---
